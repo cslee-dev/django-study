@@ -2,9 +2,9 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.11.9-blue.svg)](https://www.python.org/downloads/release/python-3119/)
 [![Django Version](https://img.shields.io/badge/django-5.0.6-brightgreen.svg)](https://docs.djangoproject.com/en/5.0/releases/5.0.6/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://travis-ci.org/)
-[![Coverage Status](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)](https://coveralls.io/)
 
 ## Introduction
 
